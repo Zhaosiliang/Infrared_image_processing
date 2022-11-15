@@ -1,0 +1,2 @@
+# Infrared_image_processing
+此目录存放红外图像融合相关内容

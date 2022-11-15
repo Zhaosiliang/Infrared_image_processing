@@ -1,0 +1,2 @@
+# Infrared_image_processing
+此目录存放目标识别相关内容
